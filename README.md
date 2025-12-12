@@ -4,15 +4,6 @@
 
 ResumeAI is an intelligent SaaS application that helps job seekers optimize their resumes. By analyzing your PDF resume against a specific job description, it provides a "Match Score", identifies missing keywords, and offers actionable AI-driven advice to improve your chances of getting an interview.
 
-## ✨ Features
-
--   **📄 PDF Resume Parsing**: Automatically extracts text from uploaded PDF resumes.
--   **🎯 Smart Match Score**: Uses Vector Embeddings (Cosine Similarity) to calculate how well your resume matches the job description.
--   **🔍 Gap Analysis**: Identifies critical keywords missing from your resume that are present in the job description.
--   **🤖 AI Career Coach**: Provides specific, actionable bullet points on how to improve your resume content using GPT-4-turbo (or GPT-3.5).
--   **🎨 Premium UI**: Built with Next.js, Tailwind CSS, and Shadcn/ui for a clean, modern, and expensive-looking interface.
--   **🛡️ Demo Mode**: Works even without an active OpenAI quota by providing realistic mock analysis for demonstration purposes.
-
 ## 🛠️ Tech Stack
 
 ### Frontend
